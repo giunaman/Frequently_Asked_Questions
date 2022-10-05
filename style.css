@@ -1,0 +1,24 @@
+.faq_question {
+    margin: 0px;
+    padding: 0px 0px 5px 0px;
+    display: inline-block;
+    cursor: pointer;
+    font-weight: bold;  
+}
+.faq_answer_container {
+    display: block;
+    font-size: larger;
+}
+h1 {
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: -webkit-xxx-large;
+}.faq_container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;    
+}
+.faq{
+    margin-top: 20px;
+    border-bottom: 1px solid #aaa;
+}
